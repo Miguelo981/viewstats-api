@@ -23,7 +23,7 @@ npm install viewstats-api
 Import the package from your repository URL:
 
 ```typescript
-import { ViewStatsAPI } from "https://github.com/Miguelo981/viewstats-api/mod.ts";
+import { ViewStatsAPI } from "https://github.com/Miguelo981/viewstats-api/raw/main/index.ts";
 ```
 
 ### API Key
